@@ -6,7 +6,9 @@ Team Members:
 3. Naveen Preetham Kaveti
 4. DharmikSai Chilakamari
 
-Project Title: Reproducing the following paper: [Tower Bridge Net (TB-Net):Bidirectional Knowledge Graph Aware Embedding 
+##### Project
+
+Reproducing the following paper: [Tower Bridge Net (TB-Net):Bidirectional Knowledge Graph Aware Embedding 
 Propagation for Explainable Recommender Systems](https://ieeexplore.ieee.org/document/9835387)
 
 
